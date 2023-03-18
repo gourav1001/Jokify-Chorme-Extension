@@ -1,0 +1,17 @@
+body{
+    height: 250px;
+    width: 250PX;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+#jokeText{
+    display: flex;
+    margin: auto 15px;
+    font-size: 17px;
+    font-weight: bold;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid coral;
+    padding: 10px;
+}
