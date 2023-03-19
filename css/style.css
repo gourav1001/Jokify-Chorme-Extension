@@ -1,17 +1,29 @@
-body{
+body {
     height: 250px;
     width: 250PX;
     display: flex;
     justify-content: center;
     background-color: antiquewhite;
 }
-#jokeText{
+
+
+#jokeHeader{
+    display: flex;
+    margin: auto 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+}
+
+#jokeText {
     display: flex;
     margin: auto 15px;
-    font-size: 17px;
-    font-weight: bold;
+    font-size: 15px;
     color: black;
     border-radius: 10px;
     border: 1px solid coral;
     padding: 10px;
 }
+
